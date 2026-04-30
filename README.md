@@ -11,4 +11,8 @@ Live Power BI Project 📊
 - <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiZjg0ZjgzM2MtMmRiYy00MzVmLWFlM2YtNWZjYmM1ZDY0NGNiIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
 ## Video Preview
-https://github.com/sumiya-sadiya-analyst/Power-BI-Bank-Customer-Churn-Analysis/issues/1
+https://github.com/user-attachments/assets/229c3e12-ebbb-45c1-95ad-bf26e8630f70
+
+## Project Overview & Breakdown: 📑📋
+
+## 
