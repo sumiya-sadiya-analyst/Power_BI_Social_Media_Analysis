@@ -8,6 +8,6 @@ This power BI project analyzes social media performance across Facebook, Instagr
 - Exploratory Data Analysis (EDA):Prepared several dashboards pages 
 
 Live Power BI Project 📊
-- <a href= "https://app.powerbi.com/reportEmbed?reportId=9deb0a29-9316-48b8-9824-a99499cea9a2&autoAuth=true&ctid=676bf922-4cd3-4dd6-a862-cb5021f07531">Live Power BI Project</a>
+- <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiZjg0ZjgzM2MtMmRiYy00MzVmLWFlM2YtNWZjYmM1ZDY0NGNiIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
 ## Video Preview
