@@ -8,10 +8,10 @@ This power BI project analyzes social media performance across Facebook, Instagr
 - Data Modeling Stage: Built star schema model where shipments data table represent "fact table" and oters are dimentional tables.
 - Exploratory Data Analysis (EDA):Prepared several dashboards pages 
 
-Live Power BI Project 📊
+# Live Power BI Project 📊
 - <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiZjg0ZjgzM2MtMmRiYy00MzVmLWFlM2YtNWZjYmM1ZDY0NGNiIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
-## Video Preview
+# Video Preview
 https://github.com/user-attachments/assets/229c3e12-ebbb-45c1-95ad-bf26e8630f70
 
 
